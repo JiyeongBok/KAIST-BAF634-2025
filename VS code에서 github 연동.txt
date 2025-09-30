@@ -1,0 +1,5 @@
+# 터미널에서 작성
+
+git add assignment_jy.py
+git commit -m "Update assignment_jy.py with new code"
+git push origin main
